@@ -10,7 +10,7 @@ thank you for visiting my profile.🧸
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/bbbeyzas" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="bbbeyzas" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/beyzasgnms" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="beyzasgnms" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/beyza-sgnms" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="beyzasgnms" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/beyzasgnms" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="beyzasgnms" height="30" width="40" /></a>
 </p>
 

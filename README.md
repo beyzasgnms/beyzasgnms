@@ -1,5 +1,11 @@
-### Hi there 👋
+### Hello everyone 👋🏻
 
+I am Beyza Sığınmış, I am a senior year student at Ege University Computer Engineering.👩🏼‍💻 
+
+Since November 2020, I have been working as a Part Time Junior Business Analyst at Garanti BBVA Technology in the Data and Advanced Analytics line.
+
+Here you can see the work I did to improve myself during my university years and the projects I made with my project friends, 
+thank you for visiting my profile.🧸
 <!--
 **beyzasgnms/beyzasgnms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

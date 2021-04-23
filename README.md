@@ -1,4 +1,4 @@
-### Hello everyone 👋🏻
+### Hello everyone,
 
 I am Beyza Sığınmış, I am a senior year student at Ege University Computer Engineering.👩🏼‍💻 
 

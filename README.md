@@ -2,7 +2,7 @@
 
 I am Beyza Sığınmış, I am a senior year student at Ege University Computer Engineering.👩🏼‍💻 
 
-Since November 2020, I have been working as a Part Time Junior Business Analyst at Garanti BBVA Technology in the Data and Advanced Analytics line.
+Since July 2021, I have been working as an iOS Developer at Trendyol Group
 
 Here you can see the work I did to improve myself during my university years and the projects I made with my project friends, 
 thank you for visiting my profile.🧸

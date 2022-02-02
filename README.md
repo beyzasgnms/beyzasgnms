@@ -1,6 +1,6 @@
 ### Hello everyone,
 
-I am Beyza Sığınmış, I am a senior year student at Ege University Computer Engineering.👩🏼‍💻 
+I am Beyza Sığınmış 👩🏼‍💻 
 
 Since July 2021, I have been working as an iOS Developer at Trendyol Group
 
